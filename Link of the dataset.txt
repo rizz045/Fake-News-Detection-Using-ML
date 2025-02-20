@@ -1,3 +1,8 @@
-Data Set Link:
+1. Link of First Data Set(used for LR and DTC):
 
 https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view
+
+
+2. Link of Second Data Set(used for TF model):
+
+https://drive.google.com/file/d/1XoHoUjZtLQ6gh_CPv9_igtZoEsdkgq3t/view
